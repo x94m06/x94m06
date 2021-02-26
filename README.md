@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 
 <img height="160" align="center" src="https://github-profile-trophy.vercel.app/?username=AllenSu1&column=7&margin-w=5" />
 
+### I'm Jing-Yuan Lai
+
+- 🎓 國立臺北科技大學 (National Taipei University of Technology)
+- 🏆
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=x94m06&show_icons=true&theme=onedark)
 
 
