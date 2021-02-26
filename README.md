@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?
+<img height="160" align="center" src="https://github-profile-trophy.vercel.app/?username=AllenSu1&column=7&margin-w=5" />
 
 
 
