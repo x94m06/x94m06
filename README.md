@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img height="160" align="center" src="https://github-profile-trophy.vercel.app/?username=AllenSu1&column=7&margin-w=5" />
+<img height="160" align="center" src="https://github-profile-trophy.vercel.app/?username=x94m06&column=7&margin-w=5" />
 
 ### I'm Jing-Yuan Lai
 
