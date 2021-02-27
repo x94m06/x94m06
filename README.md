@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### I'm Jing-Yuan Lai
 
 - 🎓 國立臺北科技大學 (National Taipei University of Technology)
-- 🏆
+- 🏅 AIdea: 愛文芒果不良品分類競賽 38/777 (4.8%)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=x94m06&show_icons=true&theme=onedark)
